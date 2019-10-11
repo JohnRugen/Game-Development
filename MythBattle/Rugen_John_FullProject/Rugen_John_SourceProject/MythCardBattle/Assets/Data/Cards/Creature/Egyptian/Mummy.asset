@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416793325221fb5498d50136b843a4b1, type: 3}
+  m_Name: Mummy
+  m_EditorClassIdentifier: 
+  characterTemplate: {fileID: 0}
+  description: A mummified corpse that has returned to the land of the living.
+  cardImage: {fileID: 21300000, guid: 3c017df6cb3e8e74faf3040089098409, type: 3}
+  manaCost: 1
+  ability: 'Death: Deal 3 damage to the enemy hero.'
+  abilityLogic: 5
+  abilityValue: -3
+  abilityAction: 2
+  maxHealth: 1
+  attack: 2
+  attacksPerTurn: 1
+  creatureScriptName: 
+  specialCreatureAmount: 0
+  alignment: -2
+  spellScriptName: 
+  specialSpellAmount: 0
+  Targets: 0

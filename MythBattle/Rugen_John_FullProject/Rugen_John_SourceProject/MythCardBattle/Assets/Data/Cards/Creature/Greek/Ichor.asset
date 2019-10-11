@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416793325221fb5498d50136b843a4b1, type: 3}
+  m_Name: Ichor
+  m_EditorClassIdentifier: 
+  characterTemplate: {fileID: 0}
+  description: Blood of the Gods
+  cardImage: {fileID: 21300000, guid: 901398c0e09fb0349b2c659f0cd003fb, type: 3}
+  manaCost: 1
+  ability: 'Preach: Add 1 GOOD Alignment to the opponent.'
+  abilityLogic: 1
+  abilityValue: 2
+  abilityAction: 0
+  maxHealth: 2
+  attack: 1
+  attacksPerTurn: 1
+  creatureScriptName: 
+  specialCreatureAmount: 0
+  alignment: 2
+  spellScriptName: 
+  specialSpellAmount: 0
+  Targets: 0

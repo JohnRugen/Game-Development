@@ -1,0 +1,14 @@
+======================================= Spaceman Controls =================================================
+				
+
+A/a - Move your ship left
+D/d - Move your ship right
+'Space bar' - Activate boosters and jump.
+
+Left Mouse Click - Fire rocket
+======================================== Spaceman References ================================================#
+Spaceman makes use of OpenGL, C++, Soil and royalty free textures.
+These textures can be found through these links.
+http://bgfons.com/download/1171
+
+Every other texture within Spaceman was created by me, John Rugen.
